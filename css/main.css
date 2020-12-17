@@ -35,6 +35,7 @@ body {
 #error {
   display: none;
   margin: 0 auto;
+  padding: 8px;
   margin-bottom: 10px;
   width: 60%;
   background-color: #ef9a9a;
