@@ -31,3 +31,14 @@ body {
 .show {
   display: block;
 }
+
+#error {
+  display: none;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  width: 60%;
+  background-color: #ef9a9a;
+  border-radius: 20px;
+  font-weight: bold;
+  font-size: 20px;
+}
