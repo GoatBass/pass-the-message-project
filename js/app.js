@@ -11,5 +11,6 @@ form.addEventListener("submit", function (e) {
 
   campoPalabra.innerHTML = palabra.value;
 
+  palabra.value = "";
   console.log("Hemos hecho clic en el botón de submit!");
 });
